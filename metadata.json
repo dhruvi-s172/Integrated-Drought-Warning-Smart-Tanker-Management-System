@@ -1,0 +1,7 @@
+{
+  "name": "JalSetu: Integrated Drought Warning & Smart Tanker Management",
+  "description": "A production-ready GovTech platform for predictive drought governance and intelligent water tanker fleet management across India.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
